@@ -1,5 +1,5 @@
 services:
-  back:
+  boilerplate:
     build: .
     volumes:
       - .:/opt/workdir
